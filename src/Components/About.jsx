@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hola! 👋 I'm a software development student at 42 Berlin, co-founder of Colombia Cardamom 🌱, and a web developer 💻.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -34,9 +34,10 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
+  "Web Dev",
   "Mobile user interfaces",
-  "Graphic design",
+  "3d modeling",
+  "Blockchain",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I have experience building websites for various clients using WordPress, Framer, HTML, CSS, and JavaScript. I focus on creating high-quality websites that meet the specific needs of each project. Collaborating with multiple customers has helped me improve my skills and knowledge of web design principles.";
 
 const About = () => {
   return (

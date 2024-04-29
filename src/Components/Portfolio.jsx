@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Shark Helpers",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to cre collaborated closely with Shark Helpers to create a professional and user-friendly website that effectively communicates their brand identity, services, and competitive advantages.ate a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+    url: "https://sharkhelpers.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Salento Hikers",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I worked with Salento Hikers to create three landing pages that highlighted the tour`s information and price and encouraged visitors to book them.",
+    url: "https://salentohikers.com/exploring-the-paramo/",
   },
   {
-    title: "My Resume Site",
+    title: "Aligned",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Aligned wanted a website that effectively communicates the breadth of its offerings, builds trust with potential customers, and encourages inquiries and conversions.",
+    url: "https://alignedautomation.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Raven Yard",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I collaborated with Ravenyard to develop a sophisticated website that reflects their expertise and professionalism.",
+    url: "https://ravenyard.com/",
   },
 ];
 
